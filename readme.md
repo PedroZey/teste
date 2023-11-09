@@ -5,3 +5,4 @@
 # Amo viver
 
 * comando git push
+* comando git pull
